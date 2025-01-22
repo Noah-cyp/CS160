@@ -1,6 +1,6 @@
 #******************************************************************************
 # Author:                Noah Cyplik
-# Lab:                   01
+# Lab:                   02
 # Date:                  01/17/25
 # Description:           This program prompts users for the average hours
 #                        worked per week, as well as average wage. 
