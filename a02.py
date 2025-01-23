@@ -13,7 +13,7 @@
 #                        week,  and their average hourly wage.
 # Output:                The outputs are the gross income, all basic taxes 
 #                        taken out and how much, and the user's take-home pay.
-# Sources:               Assignment 1 specifications and a  little prior 
+# Sources:               Assignment 2 specifications and a  little prior 
 #                        knowledge of the python language.
 #******************************************************************************
 
