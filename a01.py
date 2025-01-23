@@ -1,3 +1,20 @@
+#******************************************************************************
+# Author:                Noah Cyplik
+# Lab:                   01
+# Date:                  01/22/25
+# Description:           This program prompts users for the inches they would
+#                        like to be converted to feet, yards, and miles.
+#                        It then outputs the results in a visually pleasing
+#                        way, says goodbye, and the program ends.
+# Input:                 The user only inputs the inches they want to be
+#                        converted.
+# Output:                The outputs are the original inches entered, and all
+#                        converted values for feet, yards, and miles.
+# Sources:               Assignment 1 specifications and a little prior 
+#                        knowledge of the python language.
+#******************************************************************************
+
+
 def main():
 
     # Creates a line separation with the "~" character
